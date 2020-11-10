@@ -1,2 +1,2 @@
 # desafioDaPizza
-Programa desenvolvido em java. Cálculo de custo benefício de diferentes tamanhos de pizza.
+Programa desenvolvido em java. Software para mensurar custo benefício de diferentes tamanhos de pizza.
